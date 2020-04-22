@@ -1,2 +1,3 @@
 # hello-world
-My name is Lina and I am completing this repository tutorial to learn how to use Github.
+Tutorial Repo.
+My name is Lina and I don't understandant GitHub yet.
